@@ -1,6 +1,6 @@
 # BBE Insider – Technical Tracker
 
-This repository is for technical issue tracking, roadmap planning, and changelogs related to **[BBE Insider](https://your-domain.com)** – an exam preparation platform for WU’s *Business and Economics* entrance exam (BBE).
+This repository is for technical issue tracking, roadmap planning, and changelogs related to **[BBE Insider](https://bbe-insider.com)** – an exam preparation platform for WU’s *Business and Economics* entrance exam (BBE).
 
 ## 📌 Purpose
 - Track and manage bugs
@@ -9,7 +9,7 @@ This repository is for technical issue tracking, roadmap planning, and changelog
 - Collect technical feedback
 
 ## 🚀 Project Links
-- **Website:** [https://your-domain.com](https://your-domain.com)
+- **Website:** [bbe-insider.com](https://bbe-insider.com)
 - **Support:** Please open an [issue](../../issues) for bug reports or feature requests.
 
 ## 🗺️ Roadmap

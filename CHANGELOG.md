@@ -6,3 +6,7 @@ All notable changes to **BBE Insider** will be documented in this file.
 ### Added
 - Initial issue tracker setup
 - Public roadmap draft
+
+## [2.30.2] – 2025-09-19
+### Added
+- Insider Chatroom
